@@ -28,8 +28,10 @@ SRT Adjuster is a simple tool for adjusting the timing of subtitles in SRT files
 ## Usage
 
 1. Run the application:
-  python srt_adjuster.py
-2. Use the GUI to:
+   ```sh
+     python srt_adjuster.py
+   
+3. Use the GUI to:
 -  Select the SRT file you want to adjust.
 -  Enter the number of seconds to delay or advance the subtitles.
 -  Choose the location and name for the adjusted SRT file.
